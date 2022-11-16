@@ -1,1 +1,2 @@
 # PRJ3
+Cette première version traite de la modélisation des bags of wods des corpus de questions par la regression logistique. On traite dans ce travail un échantillon couvrant 35% des 29 000 documents environ. Le meilleur modèle possède un accuracy de .2628
